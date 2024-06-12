@@ -1,0 +1,214 @@
+
+nav {
+    width: 99%;
+    justify-content: space-between;
+    padding: 10px;
+    display: inline-flex;
+    
+}
+
+#simbolos {
+    width: 146px;
+    height: 24px;
+    display: inline-flex;
+    gap: 25px;
+}
+
+.youtube {
+    width: 90px;
+    height: 20px;
+}
+
+
+.pesquisar {
+    border: 1px solid black;
+    border-radius: 25px;
+    width: 536px;
+    height: 35px;
+    padding-left: 18px;
+}
+
+.rectangle2 {
+    position: absolute;
+    border: 1px solid black;
+    border-bottom-right-radius: 25px;
+    border-top-right-radius: 25px;
+    right: 381px;
+    width: 54px;
+    height: 37px;
+}
+
+.search {
+    width: 24px;
+    height: 24px;
+    top: 25px;
+    left: 925px;
+    position: absolute;
+}
+
+.right {
+    display:inline-flex;
+    width: 130px;
+    height: 34px;
+    gap: 15px;
+}
+
+.video, .bell {
+    width: 24px;
+    height: 24px;
+    padding: 3px;
+}
+
+.avatar {
+    width: 34px;
+    height: 34px;
+}
+
+#secao {
+    width: 952px;
+    height: 746px;
+    top: 84px;
+    left: 75px;
+    gap: 16px;
+}
+
+.video-re {
+    width: 853px; 
+    height: 490px; 
+    display: block;
+    position: absolute;
+    left: 35px;
+    top: 80px;
+    border-radius: 15px;
+}
+
+.titulo {
+    margin-top: -240px;
+    margin-left: 27px;
+    height: 55px;
+    font-family: "Roboto", "Arial", sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 23.44px;
+}
+
+.botao-inscrever {
+    width: 102px;
+    height: 40px;
+    background: rgb(12, 11, 11);
+    border: 1px solid #fff;
+    border-radius: 50px;
+    color: white;
+
+}
+
+.perfil-usuario img {
+    border-radius: 50px;
+    margin: auto;
+    margin-left: 27px;
+
+}
+
+.perfil-usuario {
+    display: inline-flex;
+    gap: 15px;
+}
+
+.perfil-usuario .descricao-conta {
+    width: 106px;
+    height: 32px;
+    font-weight: 10px;
+    margin: -14px;
+    margin-left: 2px;
+
+}
+
+.descricao-conta p {
+    margin: -38px;
+    margin-left: 2px;
+    color: rgba(81, 81, 81, 1);
+}
+
+.perfil-usuario button {
+    margin: auto;
+    margin-left: 42px;
+}
+
+button {
+    cursor: pointer;
+
+}
+
+.icons  {
+    top: 9px;
+    padding: 1px;
+    line-height: 5px;
+    border-radius: 50px;
+    
+}
+
+.icons-selecionado {
+    display: inline-flex;
+    gap: 15px;
+
+}
+
+.texto-video {
+    text-align: justify;
+    width: 840px;
+    margin-left: 27px;
+    font-family: "Roboto", "Arial", sans-serif;
+    font-size: 15px;
+
+}
+
+.visu-video {
+    margin-left: 27px;
+    margin-top: 27px;
+    width: 391px;
+    height: 16px;
+    font-size: 14px;
+    line-height: 16.41px;
+    font-family: "Roboto", "Arial", sans-serif;
+
+}
+
+#sidebar {
+    position: relative;
+    bottom: 800px;
+    left: 910px;
+}
+
+.video-coluna a {
+    text-decoration: none;
+    display: inline-flex;
+    margin-bottom: 15px;
+}
+
+
+
+
+
+#sibebar, .titulo-video {
+    display: inline-flex;
+    position: relative;
+    bottom: 15px;
+    left: 8px;
+    font-size: 14px;
+    max-width: 205px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 600;
+    line-height: 16.41px;
+    text-align: left;
+    color: black;
+    
+}
+
+#sidebar p {
+    display: block;
+    position: relative;
+    top: 25px;
+    left: -196px;
+    color: rgba(81, 81, 81, 1);
+}
+
